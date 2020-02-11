@@ -6,24 +6,85 @@
 
 > I constantly learn new things. This is a repository for sharing concept, usage and simple sample code what I have learneds.
 
-## 内容 - Contents -
+## 目次 - Table of Contents -
 
-- [バックエンド - Back-end -](https://github.com/yossiee/til#バックエンド---Back-end--)
-- [フロントエンド - Front-end -](https://github.com/yossiee/til#フロントエンド---Front-end--)
-- [クラウド ( AWS ) - Cloud -](https://github.com/yossiee/til#クラウド--AWS----Cloud--)
-- [コンテナ仮想化技術 - Container virtulization technology -](https://github.com/yossiee/til#コンテナ仮想化技術---Container-virtulization-technology--)
-- [データベース - Database -](https://github.com/yossiee/til#データベース---Database--)
-- [コンピュータサイエンス - Computer Science -](https://github.com/yossiee/til#コンピュータサイエンス---Computer-Science--)
-- [コマンドライン - Command line -](https://github.com/yossiee/til#コマンドライン---Command-line--)
-- [開発手法 - Development method -](https://github.com/yossiee/til#開発手法---Development-method--)
-- [ツール - tools -](https://github.com/yossiee/til#ツール---tools--)
+- [バックエンド - Back-end -](#バックエンド---Back-end--)
+- [フロントエンド - Front-end -](#フロントエンド---Front-end--)
+- [インフラ - Infrastructure -](#インフラ---Infrastructure--)
+- [コンテナ仮想化技術 - Container Virtulization Technology -](#コンテナ仮想化技術---Container-Virtulization-Technology--)
+- [データベース - Database -](#データベース---Database--)
+- [コンピュータサイエンス - Computer Science -](#コンピュータサイエンス---Computer-Science--)
+- [コマンドライン - Command line -](#コマンドライン---Command-Line--)
+- [開発手法 - Development method -](#開発手法---Development-method--)
+- [ツール - tools -](#ツール---tools--)
+
+<hr/>
 
 ## バックエンド - Back-end -
+- PHP
+- Go
+- Python
+- API
+
+[目次に戻る - Back to table of contents -](#目次---Table-of-Contents--)
+
+<hr/>
+
 ## フロントエンド - Front-end -
-## クラウド ( AWS ) - Cloud -
-## コンテナ仮想化技術 - Container virtulization technology -
+- JavaScript
+
+[目次に戻る - Back to table of contents -](#目次---Table-of-Contents--)
+
+<hr/>
+
+## インフラ - Infrastructure -
+- クラウド ( AWS )
+- Infrastructure as Code ( Terraform )
+
+[目次に戻る - Back to table of contents -](#目次---Table-of-Contents--)
+
+<hr/>
+
+## コンテナ仮想化技術 - Container Virtulization Technology -
+- Docker
+
+[目次に戻る - Back to table of contents -](#目次---Table-of-Contents--)
+
+<hr/>
+
 ## データベース - Database -
+- データベース設計
+
+[目次に戻る - Back to table of contents -](#目次---Table-of-Contents--)
+
+<hr/>
+
 ## コンピュータサイエンス - Computer Science -
-## コマンドライン - Command line -
+- comming soon ...
+
+[目次に戻る - Back to table of contents -](#目次---Table-of-Contents--)
+
+<hr/>
+
+## コマンドライン - Command Line -
+- comming soon ...
+
+[目次に戻る - Back to table of contents -](#目次---Table-of-Contents--)
+
+<hr/>
+
 ## 開発手法 - Development method -
-## ツール - tools -
+- アジャイル
+
+[目次に戻る - Back to table of contents -](#目次---Table-of-Contents--)
+
+<hr/>
+
+## ツール - Tools -
+- Slack
+- GitHub
+- Visual Studio Code
+
+[目次に戻る - Back to table of contents -](#目次---Table-of-Contents--)
+
+<hr/>
