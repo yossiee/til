@@ -11,7 +11,7 @@
 - [バックエンド - Back-end -](#バックエンド---Back-end--)
 - [フロントエンド - Front-end -](#フロントエンド---Front-end--)
 - [インフラ - Infrastructure -](#インフラ---Infrastructure--)
-- [コンテナ仮想化技術 - Container virtulization technology -](#コンテナ仮想化技術---Container-virtulization-technology--)
+- [コンテナ仮想化技術 - Container Virtulization Technology -](#コンテナ仮想化技術---Container-Virtulization-Technology--)
 - [データベース - Database -](#データベース---Database--)
 - [コンピュータサイエンス - Computer Science -](#コンピュータサイエンス---Computer-Science--)
 - [コマンドライン - Command line -](#コマンドライン---Command-Line--)
@@ -45,7 +45,7 @@
 
 <hr/>
 
-## コンテナ仮想化技術 - Container virtulization technology -
+## コンテナ仮想化技術 - Container Virtulization Technology -
 - Docker
 
 [目次に戻る - Back to table of contents -](#目次---Table-of-Contents--)
@@ -60,26 +60,28 @@
 <hr/>
 
 ## コンピュータサイエンス - Computer Science -
+- comming soon ...
 
 [目次に戻る - Back to table of contents -](#目次---Table-of-Contents--)
 
 <hr/>
 
 ## コマンドライン - Command Line -
+- comming soon ...
 
 [目次に戻る - Back to table of contents -](#目次---Table-of-Contents--)
 
 <hr/>
 
 ## 開発手法 - Development method -
-- アジャイル開発
+- アジャイル
 
 [目次に戻る - Back to table of contents -](#目次---Table-of-Contents--)
 
 <hr/>
 
 ## ツール - Tools -
-- slack
+- Slack
 - GitHub
 - Visual Studio Code
 
