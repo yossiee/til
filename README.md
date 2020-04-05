@@ -33,6 +33,7 @@
 ## フロントエンド - Front-end -
 - [JavaScript](https://github.com/yossiee/til/tree/master/Front-end/javascript)
 - [npm](https://github.com/yossiee/til/tree/master/Front-end/npm)
+- [static site generator](https://github.com/yossiee/til/tree/master/Front-end/static-site-generator)
 
 [目次に戻る - Back to table of contents -](#目次---Table-of-Contents--)
 
