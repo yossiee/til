@@ -41,7 +41,7 @@
 
 ## インフラ - Infrastructure -
 - クラウド ( AWS )
-- Infrastructure as Code ( Terraform )
+- [Terraform](https://github.com/yossiee/til/tree/master/Infrastructure/terraform)
 
 [目次に戻る - Back to table of contents -](#目次---Table-of-Contents--)
 

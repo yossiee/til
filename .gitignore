@@ -1,3 +1,7 @@
+# entire
 logs/
 .env
 .DS_Store
+
+# about Infrastructure
+Infrastructure/terraform/ec2/.terraform/plugins/*
