@@ -46,3 +46,4 @@ $ gatsby develop
 | 1 | [Get to Know Gatsby Building Blocks](https://github.com/yossiee/til/tree/master/Front-end/static-site-generator/gatsby-tutorial/hello-world) | hello world starter |
 | 2 | [Introduction to Styling in Gatsby](https://github.com/yossiee/til/tree/master/Front-end/static-site-generator/gatsby-tutorial/tutorial-part-two) | style websites |
 | 3 | [Creating Nested Layout Components](https://github.com/yossiee/til/tree/master/Front-end/static-site-generator/gatsby-tutorial/tutorial-part-three) | nested layout components |
+| 4 | [Data in Gatsby](https://github.com/yossiee/til/tree/master/Front-end/static-site-generator/gatsby-tutorial/tutorial-part-four) | How to use GraphQL |
